@@ -42,19 +42,19 @@ const Contact = () => {
                 <MdEmail className='contact__option-icon'/>
                 <h4>Email</h4>  
                 <h5>dummymail@gmail.com</h5>
-                <a target="_blank" href="mailto:dummymail@gmail.com">Send email</a>
+                <a target="_blank" rel="noreferrer" href="mailto:dummymail@gmail.com">Send email</a>
               </article>
               <article className="contact__option">
                 <RiMessengerLine  className='contact__option-icon'/>
                 <h4>Messenger</h4>  
                 <h5>satyaprakash.sahoo.963</h5>
-                <a target="_blank" href="https://m.me/satyaprakash.sahoo.963">Social Connect</a>
+                <a target="_blank" rel="noreferrer" href="https://m.me/satyaprakash.sahoo.963">Social Connect</a>
               </article>
               <article className="contact__option">
                 <BsWhatsapp  className='contact__option-icon'/>
                 <h4>Whatsapp</h4>  
                 <h5>Satyaprakash Sahoo</h5>
-                <a target="_blank" href="https://api.whatsapp.com/send?phone=+916353725889">Chat</a>
+                <a target="_blank" rel="noreferrer" href="https://api.whatsapp.com/send?phone=+916353725889">Chat</a>
               </article>
             </div>  
             {/* options end */}

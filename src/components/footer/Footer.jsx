@@ -17,9 +17,9 @@ const Footer = () => {
         <li><a href="#contact">Contact</a></li>  
       </ul>
       <div className="footer__socials">
-        <a target="_blank" href="https://facebook.com"><BsFacebook/></a>  
-        <a target="_blank" href="https://instagram.com"><BsInstagram/></a>  
-        <a target="_blank" href="https://twitter.com"><BsTwitter/></a>  
+        <a target="_blank" rel="noreferrer" href="https://facebook.com"><BsFacebook/></a>  
+        <a target="_blank" rel="noreferrer" href="https://instagram.com"><BsInstagram/></a>  
+        <a target="_blank" rel="noreferrer" href="https://twitter.com"><BsTwitter/></a>  
       </div>
       <div className="footer__copyright">
         <small>&copy; AXCES Digitals. All rights reserved</small>  

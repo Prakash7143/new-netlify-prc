@@ -19,8 +19,8 @@ const Portfolio = () => {
             </div>
               <h3>Portfolio Item Title</h3>  
               <div className="portfolio__item-cta">
-                <a target="_blank" href="https://github.com" className="btn ">Github</a>
-                <a target="_blank" href="https://dribbble.com/shots/17610643-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps" className="btn btn-primary">Live Demo</a>  
+                <a target="_blank" rel="noreferrer" href="https://github.com" className="btn ">Github</a>
+                <a target="_blank" rel="noreferrer" href="https://dribbble.com/shots/17610643-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps" className="btn btn-primary">Live Demo</a>  
               </div>
          </article>  
          {/*  */}
@@ -30,8 +30,8 @@ const Portfolio = () => {
             </div>
               <h3>Portfolio Item Title</h3>  
               <div className="portfolio__item-cta">
-                <a target="_blank" href="https://github.com" className="btn ">Github</a>
-                <a target="_blank" href="https://dribbble.com/shots/17610643-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps" className="btn btn-primary">Live Demo</a>  
+                <a target="_blank" rel="noreferrer" href="https://github.com" className="btn ">Github</a>
+                <a target="_blank" rel="noreferrer" href="https://dribbble.com/shots/17610643-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps" className="btn btn-primary">Live Demo</a>  
               </div>
          </article>  
          {/*  */}
@@ -41,8 +41,8 @@ const Portfolio = () => {
             </div>
               <h3>Portfolio Item Title</h3>  
               <div className="portfolio__item-cta">
-                <a target="_blank" href="https://github.com" className="btn ">Github</a>
-                <a target="_blank" href="https://dribbble.com/shots/17610643-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps" className="btn btn-primary">Live Demo</a>  
+                <a target="_blank" rel="noreferrer" href="https://github.com" className="btn ">Github</a>
+                <a target="_blank" rel="noreferrer" href="https://dribbble.com/shots/17610643-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps" className="btn btn-primary">Live Demo</a>  
               </div>
          </article>  
          {/*  */}
@@ -52,8 +52,8 @@ const Portfolio = () => {
             </div>
               <h3>Portfolio Item Title</h3>  
               <div className="portfolio__item-cta">
-                <a target="_blank" href="https://github.com" className="btn ">Github</a>
-                <a target="_blank" href="https://dribbble.com/shots/17610643-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps" className="btn btn-primary">Live Demo</a>  
+                <a target="_blank" rel="noreferrer" href="https://github.com" className="btn ">Github</a>
+                <a target="_blank" rel="noreferrer" href="https://dribbble.com/shots/17610643-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps" className="btn btn-primary">Live Demo</a>  
               </div>
          </article>  
          {/*  */}
@@ -63,8 +63,8 @@ const Portfolio = () => {
             </div>
               <h3>Portfolio Item Title</h3>  
               <div className="portfolio__item-cta">
-                <a target="_blank" href="https://github.com" className="btn ">Github</a>
-                <a target="_blank" href="https://dribbble.com/shots/17610643-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps" className="btn btn-primary">Live Demo</a>  
+                <a target="_blank" rel="noreferrer" href="https://github.com" className="btn ">Github</a>
+                <a target="_blank" rel="noreferrer" href="https://dribbble.com/shots/17610643-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps" className="btn btn-primary">Live Demo</a>  
               </div>
          </article>  
          {/*  */}
@@ -74,8 +74,8 @@ const Portfolio = () => {
             </div>
               <h3>Portfolio Item Title</h3>  
               <div className="portfolio__item-cta">
-                <a target="_blank" href="https://github.com" className="btn ">Github</a>
-                <a target="_blank" href="https://dribbble.com/shots/17610643-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps" className="btn btn-primary">Live Demo</a>  
+                <a target="_blank" rel="noreferrer" href="https://github.com" className="btn ">Github</a>
+                <a target="_blank" rel="noreferrer" href="https://dribbble.com/shots/17610643-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps" className="btn btn-primary">Live Demo</a>  
               </div>
          </article>  
       </div>
